@@ -1,28 +1,34 @@
 # TextBPN-MLOCR: Advanced Multi-Lingual Scene Text Detection
-
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 [![HuggingFace Model](https://img.shields.io/badge/HuggingFace-Model-yellow)](https://huggingface.co/somos99/TextBPN-MLOCR)
+[![PyPI Version](https://img.shields.io/pypi/v/textbpn-mlocr)](https://pypi.org/project/textbpn-mlocr/)
 
-**Enhanced version of TextBPN++** for robust scene text detection across multiple languages and artistic fonts. Trained on large-scale synthetic and real-world text datasets for superior performance.
+Enhanced version of TextBPN++ for robust scene text detection across multiple languages and artistic fonts. Trained on large-scale synthetic and real-world text datasets for superior performance in diverse scenarios.
 
-## Key Features ✨
-- **Multi-Lingual Support**: Arabic, Bangla, Chinese, Japanese, Korean, Latin, Hindi
-- **Artistic Text Detection**: Handles stylized and decorative fonts effectively
-- **Optimized Performance**: Supports modern NVIDIA GPUs (H100/H800/H20)
-- **Large-scale Training**: 
-  - 1.5M+ synthetic text samples 
-  - 500K+ real-world text samples
+## ✨ Key Features
+- **Multi-Lingual Support**: Detect text in Arabic, Bangla, Chinese, Japanese, Korean, Latin, Hindi
+- **Artistic Text Handling**: Accurately processes stylized and decorative fonts
+- **Optimized Performance**: Fully supports modern NVIDIA GPUs (H100/H800/H20)
+- **Large-scale Training**:
+  - 🧪 1.5M+ synthetic text samples
+  - 📸 500K+ real-world text samples
 
-## Hardware Requirements
-- **GPU**: NVIDIA H100, H800, H20 (CUDA 12.2 compatible)
-- **Python**: ≥ 3.9
-- **CUDA**: 12.2
+## 🛠️ Hardware Requirements
+| Component      | Requirement                         |
+|----------------|-------------------------------------|
+| **GPU**        | NVIDIA H100, H800, H20              |
+| **CUDA**       | 12.2                                |
+| **Python**     | ≥ 3.9                               |
+| **OS**         | Linux (recommended)                |
 
-## Model Download
+## 🔽 Model Download
 Download pre-trained models from HuggingFace Hub:  
-📦 [https://huggingface.co/somos99/TextBPN-MLOCR](https://huggingface.co/somos99/TextBPN-MLOCR)
+[https://huggingface.co/somos99/TextBPN-MLOCR](https://huggingface.co/somos99/TextBPN-MLOCR)
 
-## Installation
+## 📦 Installation
+Install via PyPI:
+```bash
+pip install textbpn-mlocr
 
 ### From PyPI
 ```bash
