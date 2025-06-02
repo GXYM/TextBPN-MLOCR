@@ -29,19 +29,15 @@ Download pre-trained models from HuggingFace Hub:
 Install via PyPI:
 ```bash
 pip install textbpn-mlocr
+```
 
-### From PyPI
+From DCN with CUDA
 ```bash
-pip install textbpn-mlocr
+sh make.sh
 ```
 
-### From DCN with CUDA
-```bash
-pip install textbpn-mlocr
-```
-
-## Usage
-```
+## 🚀 Quick Start
+```python
 import datetime
 import json
 import logging
@@ -71,7 +67,7 @@ if __name__ == "__main__":
 ```
 
 
-## References
+## 📖 References
 ```
 @inproceedings{zhang2021adaptive,
   title={Adaptive boundary proposal network for arbitrary shape text detection},
@@ -92,12 +88,14 @@ if __name__ == "__main__":
 }
 ```
 
-## License
+## ⚖️ License
 This project is licensed under the MIT License.
 
-## Acknowledgements
-
-This project is based on the original TextBPN++ project.
-
-Feel free to star & fork! For any questions, please open an issue or pull request!
-
+## 🙏 Acknowledgements
+This project extends the original work from:
+* TextBPN++: GitHub Repository
+* Contributors to the TextBPN project
+## Contribute & Support​​
+🌟 Star us on GitHub → https://github.com/somos99/TextBPN-MLOCR  
+🐛 Report issues → https://github.com/somos99/TextBPN-MLOCR/issues  
+📥 Pull requests welcome!
