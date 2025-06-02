@@ -1,6 +1,7 @@
 # TextBPN-MLOCR: Advanced Multi-Lingual Scene Text Detection
 
-[![HuggingFace Models](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Models-yellow)](https://huggingface.co/somos99/TextBPN-MLOCR)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
+[![HuggingFace Model](https://img.shields.io/badge/HuggingFace-Model-yellow)](https://huggingface.co/somos99/TextBPN-MLOCR)
 
 **Enhanced version of TextBPN++** for robust scene text detection across multiple languages and artistic fonts. Trained on large-scale synthetic and real-world text datasets for superior performance.
 
