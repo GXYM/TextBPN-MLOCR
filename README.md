@@ -26,3 +26,9 @@ Download pre-trained models from HuggingFace Hub:
 ### From PyPI
 ```bash
 pip install textbpn-mlocr
+```
+
+### From DCN with CUDA
+```bash
+pip install textbpn-mlocr
+```
