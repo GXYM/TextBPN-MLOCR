@@ -63,3 +63,35 @@ if __name__ == "__main__":
     out_puts = detect_model.detect([raw_images])
     print(out_puts)
 ```
+
+
+## References
+```
+@inproceedings{zhang2021adaptive,
+  title={Adaptive boundary proposal network for arbitrary shape text detection},
+  author={Zhang, Shi-Xue and Zhu, Xiaobin and Yang, Chun and Wang, Hongfa and Yin, Xu-Cheng},
+  booktitle={Proceedings of the IEEE/CVF international conference on computer vision},
+  pages={1305--1314},
+  year={2021}
+}
+
+@article{zhang2023arbitrary,
+  title={Arbitrary shape text detection via boundary transformer},
+  author={Zhang, Shi-Xue and Yang, Chun and Zhu, Xiaobin and Yin, Xu-Cheng},
+  journal={IEEE Transactions on Multimedia},
+  volume={26},
+  pages={1747--1760},
+  year={2023},
+  publisher={IEEE}
+}
+```
+
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgements
+
+This project is based on the original TextBPN++ project.
+
+Feel free to star & fork! For any questions, please open an issue or pull request!
+
