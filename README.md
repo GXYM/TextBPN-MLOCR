@@ -66,6 +66,8 @@ if __name__ == "__main__":
     print(out_puts)
 ```
 
+## 🎨Gridio
+![](https://github.com/GXYM/TextBPN-MLOCR/blob/main/WechatIMG23.jpg)
 
 ## 📖 References
 ```
