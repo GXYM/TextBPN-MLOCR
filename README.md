@@ -8,7 +8,7 @@ Enhanced version of TextBPN++ for robust scene text detection across multiple la
 ## ✨ Key Features
 - **Multi-Lingual Support**: Detect text in Arabic, Bangla, Chinese, Japanese, Korean, Latin, Hindi
 - **Artistic Text Handling**: Accurately processes stylized and decorative fonts
-- **Optimized Performance**: Fully supports modern NVIDIA GPUs (H100/H800/H20)
+- **Optimized Performance**: Fully supports modern NVIDIA GPUs
 - **Large-scale Training**:
   - 🧪 1.5M+ synthetic text samples
   - 📸 500K+ real-world text samples
