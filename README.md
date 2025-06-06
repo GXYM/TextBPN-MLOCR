@@ -16,7 +16,7 @@ Enhanced version of TextBPN++ for robust scene text detection across multiple la
 ## 🛠️ Hardware Requirements
 | Component      | Requirement                         |
 |----------------|-------------------------------------|
-| **GPU**        | NVIDIA H100, H800, H20              |
+| **GPU**        | NVIDIA GPUs               |
 | **CUDA**       | 12.2                                |
 | **Python**     | ≥ 3.9                               |
 | **OS**         | Linux (recommended)                |
