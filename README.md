@@ -5,6 +5,9 @@
 
 Enhanced version of TextBPN++ for robust scene text detection across multiple languages and artistic fonts. Trained on large-scale synthetic and real-world text datasets for superior performance in diverse scenarios.
 
+## News
+- [x] 2025.06.30 Our model [TextBPN-MLOCR](https://github.com/GXYM/TextBPN-MLOCR) achieved first place on [ArT2019](https://rrc.cvc.uab.es/?ch=14&com=evaluation&task=1)_ and [MLT2019](https://rrc.cvc.uab.es/?ch=15&com=evaluation&task=1)
+
 ## ✨ Key Features
 - **Multi-Lingual Support**: Detect text in Arabic, Bangla, Chinese, Japanese, Korean, Latin, Hindi
 - **Artistic Text Handling**: Accurately processes stylized and decorative fonts
